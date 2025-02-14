@@ -20,28 +20,10 @@ This project implements a Random Forest classifier to predict football match out
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/football-prediction.git
+git clone [https://github.com/yourusername/football-prediction.git](https://github.com/dmann001/Premier-League-Match-Predictor)
 cd football-prediction
 ```
 
-2. Create and activate virtual environment (optional):
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. Install required packages:
-```bash
-pip install -r requirements.txt
-```
-
-## 💻 Usage
-
-1. Prepare your data in CSV format according to the required structure
-2. Run the prediction model:
-```python
-python predict_matches.py
-```
 
 ## 📊 Data Requirements
 
@@ -86,4 +68,4 @@ RandomForestClassifier(
 ```
 
 
-##Project Inspired by Data Quests
+## Project Inspired by Data Quests
