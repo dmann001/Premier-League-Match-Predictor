@@ -21,7 +21,7 @@ This project implements a Random Forest classifier to predict football match out
 1. Clone the repository:
 ```bash
 git clone [https://github.com/yourusername/football-prediction.git](https://github.com/dmann001/Premier-League-Match-Predictor)
-cd football-prediction
+cd Premier-League-Match-Predictor-main
 ```
 
 
