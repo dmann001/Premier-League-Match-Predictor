@@ -2,17 +2,6 @@
 
 A machine learning model for predicting football match outcomes using historical data and advanced statistical features.
 
-## 📋 Table of Contents
-
-* [Overview](#overview)
-* [Features](#features)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Data Requirements](#data-requirements)
-* [Model Architecture](#model-architecture)
-* [Contributing](#contributing)
-* [License](#license)
-
 ## 🎯 Overview
 
 This project implements a Random Forest classifier to predict football match outcomes based on historical match data. It incorporates rolling statistics, team performance metrics, and venue-based features to make predictions.
